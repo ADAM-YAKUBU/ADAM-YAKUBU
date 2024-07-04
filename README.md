@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ADAM-YAKUBU
 - 👀 I’m interested in software and web development
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on developing softwar8
+- 🌱 I’m computer science student 
+- 💞️ I’m looking to collaborate on developing software 
 - 📫 How to reach me adamyakubu1200@gmail.com
 
 <!---
